@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @youngjooo
 - 🌱 I’m currently learning natural language processing and GPT2
 
+
+
 # 고려대학교 실전문제연구단
 ## 한국어자연어처리 Lv.2
 
